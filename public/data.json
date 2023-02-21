@@ -1,0 +1,88 @@
+{
+  "organizations": [
+    {
+      "name": "Organization 1",
+      "id": "1",
+      "tracking": {
+        "internal": 840,
+        "external": 405,
+        "assigned": 1200
+      },
+      "protection": {
+        "internal": 150,
+        "external": 150,
+        "assigned": 850
+      }
+    },
+    {
+      "name": "Organization 2",
+      "id": "2",
+      "tracking": {
+        "internal": 840,
+        "external": 405,
+        "assigned": 1200
+      },
+      "protection": {
+        "internal": 150,
+        "external": 150,
+        "assigned": 850
+      }
+    },
+    {
+      "name": "Organization 3",
+      "id": "3",
+      "tracking": {
+        "internal": 840,
+        "external": 405,
+        "assigned": 1200
+      },
+      "protection": {
+        "internal": 150,
+        "external": 150,
+        "assigned": 850
+      }
+    },
+    {
+      "name": "Organization 4",
+      "id": "4",
+      "tracking": {
+        "internal": 840,
+        "external": 405,
+        "assigned": 1200
+      },
+      "protection": {
+        "internal": 150,
+        "external": 150,
+        "assigned": 850
+      }
+    },
+    {
+      "name": "Organization 5",
+      "id": "5",
+      "tracking": {
+        "internal": 840,
+        "external": 405,
+        "assigned": 1200
+      },
+      "protection": {
+        "internal": 150,
+        "external": 150,
+        "assigned": 850
+      }
+    },
+    {
+      "name": "Organization 6",
+      "id": "6",
+      "tracking": {
+        "internal": 840,
+        "external": 405,
+        "assigned": 1200
+      },
+      "protection": {
+        "internal": 150,
+        "external": 150,
+        "assigned": 850
+      }
+    }
+  ]
+}
